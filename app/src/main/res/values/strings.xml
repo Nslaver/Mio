@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mio</string>
+
+    <string name="title_section1">T31</string>
+    <string name="title_section2">T47A</string>
+    <string name="title_section3">Pendiente...</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Nuevo Bus</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
